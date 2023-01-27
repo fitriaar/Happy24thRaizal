@@ -55,32 +55,32 @@ div.card {
         <div class="col">
           <div class="card">
             <div class="card-body">
-              <h5 class="card-title">"selamat ulang tahun sayangku!"</h5>
-              <p class="card-text">- mau peluk kamu huaaaaaa T-T </p>
+              <h5 class="card-title">"Happy Birthday ABCDE"</h5>
+              <p class="card-text">- Disini Pengirim</p>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card">
             <div class="card-body">
-              <h5 class="card-title">"Sayang, walaupun aku jauh, tapi doaku terbaik untuk kamu selalu"</h5>
-              <p class="card-text">- i need you!</p>
+              <h5 class="card-title">"Happy Birthday ABCDE"</h5>
+              <p class="card-text">- Disini Pengirim</p>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card">
             <div class="card-body">
-              <h5 class="card-title">"jangan nakal nakal disana, jangan aneh aneh disana, disini aku yang panik karna belum berani naik kapal kelampung :("</h5>
-              <p class="card-text">- i miss you! </p>
+              <h5 class="card-title">"Happy Birthday ABCDE"</h5>
+              <p class="card-text">- Disini Pengirim</p>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card">
             <div class="card-body">
-              <h5 class="card-title">"jaga diri baik-baik, harus tambah rajin minumnya gabole males males, rajin makannya biar semakin setrong, rajin solatnya ya mas ganteng dan berdoa semoga selalu dalam lindungan Allah serta diberikan segala kemudahan dan kelancaran atas apa yang kamu lakukan disana!"</h5>
-              <p class="card-text">- i love you! </p>
+              <h5 class="card-title">"Happy Birthday ABCDE"</h5>
+              <p class="card-text">- Disini Pengirim</p>
             </div>
           </div>
         </div>
@@ -109,12 +109,12 @@ div.card {
 
       typewriter
         .pauseFor(2500)
-        .typeString('HELLO RAIZAL!')
+        .typeString('Hello!')
         .pauseFor(300)
         .deleteChars(6)
-        .typeString('THIS IS YOUR DAY!')
+        .typeString('Happy Birthday!')
         .deleteChars(15)
-        .typeString('HAPPY B'DAY TO YOU!')
+        .typeString('Selamat Ulang Tahun!')
         .pauseFor(1000)
         .start();
     </script>
